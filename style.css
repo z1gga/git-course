@@ -1,0 +1,13 @@
+h1 {
+    color: mediumvioletred;
+    background: black;
+    text-align: center;
+}
+h2 {
+    color: mediumvioletred;
+    background: black;
+    text-align: left;
+}
+body {
+    background-color: black;
+}

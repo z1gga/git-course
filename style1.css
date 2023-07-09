@@ -1,0 +1,54 @@
+@font-face {
+    font-family: "Times New Roman";
+}
+
+
+h1 {
+    color: darkviolet;
+    background: white;
+    width: 700px;
+    height: 45px;
+    text-align: center;
+}
+h2 {
+    text-align:left ;
+    color: darkviolet;
+}
+
+p {
+    text-align: left;
+    color: white;
+}
+
+body {
+    background-color: black;
+}
+.social-icons-instagram {
+    color: darkviolet;
+    text-align: right;
+}
+
+.social-icons-vk {
+    color: darkviolet;
+    text-align: right;
+}
+
+.about-me {
+    text-align: left;
+    color: darkviolet;
+
+}
+
+footer {
+    text-align: center;
+    color: darkviolet;
+}
+.figeru {
+    width: 200px;
+    height: 171px;
+}
+#drift-picture {
+    border: darkviolet 100px;
+    width: 200px;
+    height: 200px;
+}
